@@ -1,2 +1,3 @@
-# Apps-em-Swift
-Aplicativos Desenvolvidos durante o curso em Swift
+# App-Loteria-Swift
+Aplicativo Loteria desenvolvido em Swift
+
